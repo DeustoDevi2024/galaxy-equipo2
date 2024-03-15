@@ -153,7 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.1
+  rotacion: 0.07
 --- !u!4 &58374718
 Transform:
   m_ObjectHideFlags: 0
@@ -530,7 +530,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 1.1
+  rotacion: 0.05
 --- !u!1 &487710087 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 180698, guid: 772a79796cfbe7149a55658d42b4726d, type: 3}
@@ -553,7 +553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 0.9
+  rotacion: 0.09
 --- !u!1001 &537796723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -657,7 +657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.11
+  rotacion: 0.08
 --- !u!4 &618217483
 Transform:
   m_ObjectHideFlags: 0
@@ -1183,7 +1183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 1
+  rotacion: 0.1
 --- !u!1 &1385157423
 GameObject:
   m_ObjectHideFlags: 0
@@ -1214,7 +1214,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.08
+  rotacion: 0.05
 --- !u!4 &1385157425
 Transform:
   m_ObjectHideFlags: 0
@@ -1253,7 +1253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 1.2
+  rotacion: 0.9
 --- !u!1 &1429291135 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 144004, guid: 765d85c64e1e9854a94ccb1eaa1f56db, type: 3}
@@ -1294,7 +1294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 0.7
+  rotacion: 0.07
 --- !u!1 &1545378301
 GameObject:
   m_ObjectHideFlags: 0
@@ -1325,7 +1325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.12
+  rotacion: 0.09
 --- !u!4 &1545378303
 Transform:
   m_ObjectHideFlags: 0
@@ -1364,7 +1364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 1.6
+  rotacion: 1.1
 --- !u!1 &1615938097
 GameObject:
   m_ObjectHideFlags: 0
@@ -1395,7 +1395,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.09
+  rotacion: 0.06
 --- !u!4 &1615938099
 Transform:
   m_ObjectHideFlags: 0
@@ -1434,7 +1434,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 0.5
+  rotacion: 0.05
 --- !u!1 &1697721985
 GameObject:
   m_ObjectHideFlags: 0
@@ -1465,7 +1465,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.14
+  rotacion: 0.11
 --- !u!4 &1697721987
 Transform:
   m_ObjectHideFlags: 0
@@ -1572,7 +1572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 1
+  rotacion: 0.05
 --- !u!1001 &1848451128
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1737,7 +1737,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.15
+  rotacion: 0.12
 --- !u!4 &1856496241
 Transform:
   m_ObjectHideFlags: 0
@@ -1776,7 +1776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e7d871c060caae469e6fba7e44078ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: 1.3
+  rotacion: 1
 --- !u!1 &2114965106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1807,7 +1807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.01
-  rotacion: 0.13
+  rotacion: 0.1
 --- !u!4 &2114965108
 Transform:
   m_ObjectHideFlags: 0
